@@ -1311,7 +1311,7 @@ demo = {
 
         $.notify({
             icon: "nc-icon nc-app",
-            message: "Welcome to <b>the Service Hub</b> - select all of the services you may need, submit the request, and one of our specialists will send you a same day ETA."
+            message: "Welcome to <b>The Service Hub</b> - select all of the services you may need, submit the request, and one of our specialists will send you a same day ETA."
 
         }, {
             type: type[color],
